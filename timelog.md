@@ -222,6 +222,8 @@
 * *1.5 hour* meeting with the supervisor
 * *4 hours* optimizing DCGAN
 
+## Week 21
+
 ### 6 Mar 2023
 
 * *2 hours* Building the AutoEncoder
