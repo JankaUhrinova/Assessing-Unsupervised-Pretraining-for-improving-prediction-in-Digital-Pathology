@@ -220,3 +220,22 @@
 ### 3 Mar 2023
 
 * *1.5 hour* meeting with the supervisor
+* *4 hours* optimizing DCGAN
+
+### 6 Mar 2023
+
+* *2 hours* Building the AutoEncoder
+* *2 hours* Building and running the Clasifier
+
+### 7 Mar 2023
+
+* *.5 hours* Splitting the Dataset
+* *10 hours* Running the Classifier
+
+### 8 Mar 2023
+
+* *2 hours* Training the AutoEncoder
+
+### 9 Mar 2023
+
+* *10 hours* Running the pretrained Classifier
