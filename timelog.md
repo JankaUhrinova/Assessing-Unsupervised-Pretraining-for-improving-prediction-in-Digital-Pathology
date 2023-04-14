@@ -226,18 +226,81 @@
 
 ### 6 Mar 2023
 
-* *2 hours* Building the AutoEncoder
-* *2 hours* Building and running the Clasifier
+* *2 hours* building the AutoEncoder
+* *2 hours* building and running the Clasifier
 
 ### 7 Mar 2023
 
-* *.5 hours* Splitting the Dataset
-* *10 hours* Running the Classifier
+* *.5 hours* splitting the Dataset
+* *10 hours* running the Classifier
 
 ### 8 Mar 2023
 
-* *2 hours* Training the AutoEncoder
+* *2 hours* training the AutoEncoder
 
 ### 9 Mar 2023
 
-* *10 hours* Running the pretrained Classifier
+* *10 hours* running the pretrained Classifier
+
+### 10 Mar 2023
+
+* *3 hours* writing up the Dissertation
+
+## Week 23
+
+### 13 Mar 2023
+
+* *3 hours* writing up the Dissertation
+
+### 14 Mar 2023
+* *2 hours* meeting with the supervisor
+* *3 hours* writing up the Dissertation
+
+### 16 Mar 2023
+
+* *3 hours* writing up the Dissertation
+
+## Week 24
+
+### 17 Mar 2023
+* *1 hours* meeting with the supervisor
+* *3 hours* writing up the Dissertation
+
+### 18 Mar 2023
+* *10 hours* pretraining 6 AutoEncoder models
+
+### 20 Mar 2023
+
+* *15 hours* Training all the final models
+
+## Week 26
+
+### 31 Mar 2023
+* *3 hours* meeting with the supervisor
+
+## Week 27
+
+### 3 Apr 2023
+* *10 hours* running the DCGAN model
+
+### 4 Apr 2023
+* *4 hours* writing up the Dissertation
+
+## Week 28
+
+### 10 Apr 2023
+* *8 hours* writing up the Dissertation
+
+### 11 Apr 2023
+* *6 hours* writing up the Dissertation
+
+### 12 Apr 2023
+* *6 hours* writing up the Dissertation
+* *5 hours* working on data visualisation
+* *1 hour* writing a Readme.md file
+
+### 13 Apr 2023
+* *6 hours* finalizing the Dissertation
+
+### 14 Apr 2023
+* *3 hours* recording the video
